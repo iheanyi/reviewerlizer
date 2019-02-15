@@ -10,5 +10,5 @@ action "only opened PRs" {
 
 action "deliver thoughtful review" {
   uses = "./"
-  needs = ["only opened PRs"]
+  # needs = ["only opened PRs"]
 }

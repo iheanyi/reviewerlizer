@@ -18,4 +18,4 @@ const QUESTIONS = [
 const output = generate(QUESTIONS)
 
 console.log(output)
-console.log(require('fs').readFileSync('/github/workflow/event.json'));
+console.log(JSON.parse(require('fs').readFileSync('/github/workflow/event.json')));
