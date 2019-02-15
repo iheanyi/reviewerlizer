@@ -15,7 +15,7 @@ module.exports = function(questions) {
       filter({string}) {
         const length = string.split(' ').length
         const score = sentiment.analyze(string)
-        return length > 30 && q.isSatisfied(score)
+        return length > 20 && q.isSatisfied(score)
       }
     }).string
     return `### ${q.q}\n\n${response}`
