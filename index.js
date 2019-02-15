@@ -26,8 +26,7 @@ console.log(event);
   await write({
     owner: event.repository.owner.login,
     repo: event.repository.name,
-    number: event.number,
-    person: event.issue.title,
+    number: event.issue.number,
     review
   })
 })()
