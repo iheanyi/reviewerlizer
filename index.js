@@ -17,7 +17,7 @@ const QUESTIONS = [
   }
 ]
 
-const event = fs.readFileSync('/github/workflow/event.json')
+const event = JSON.parse(fs.readFileSync('/github/workflow/event.json'))
 const review = generate(QUESTIONS)
 
 ;(async function() {
