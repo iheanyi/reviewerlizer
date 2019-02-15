@@ -1,4 +1,6 @@
+const fs = require('fs')
 const generate = require('./generate')
+const write = require('./write')
 
 const QUESTIONS = [
   {
@@ -15,7 +17,15 @@ const QUESTIONS = [
   }
 ]
 
-const output = generate(QUESTIONS)
+const event = fs.readFileSync('/github/workflow/event.json')
+const review = generate(QUESTIONS)
 
-console.log(output)
-console.log(JSON.parse(require('fs').readFileSync('/github/workflow/event.json')));
+;(async function() {
+  await write({
+    owner: event.repository.owner.login,
+    repo: event.repository.name,
+    number: event.number,
+    person: event.issue.title,
+    review
+  })
+})()
