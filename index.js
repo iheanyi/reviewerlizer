@@ -17,14 +17,18 @@ const QUESTIONS = [
   }
 ]
 
-const event = JSON.parse(fs.readFileSync('/github/workflow/event.json'))
 const review = generate(QUESTIONS)
 
 ;(async function() {
-  await write({
-    owner: event.repository.owner.login,
-    repo: event.repository.name,
-    number: event.issue.number,
-    review
-  })
+  if (process.env.GITHUB_TOKEN) {
+    const event = JSON.parse(fs.readFileSync('/github/workflow/event.json'))
+    await write({
+      owner: event.repository.owner.login,
+      repo: event.repository.name,
+      number: event.issue.number,
+      review
+    })
+  } else {
+    console.log(review);
+  }
 })()
