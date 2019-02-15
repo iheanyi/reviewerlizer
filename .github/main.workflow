@@ -5,7 +5,7 @@ workflow "Generate Review" {
 
 action "only opened issues" {
   uses = "actions/bin/filter@46ffca7632504e61db2d4cb16be1e80f333cb859"
-  args = "action opened"
+  args = "action opened|reopened"
 }
 
 action "deliver thoughtful review" {
