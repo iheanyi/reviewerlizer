@@ -1,8 +1,8 @@
 workflow "Generate Review" {
   on = "pull_request"
-  resolves = ["Reviewerlizer"]
+  resolves = ["review"]
 }
 
-action "Reviewerlizer" {
+action "review" {
   uses = "./"
 }
