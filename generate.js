@@ -2,6 +2,9 @@ const Markov = require('markov-strings').default
 const Sentiment = require('sentiment')
 const fs = require('fs')
 
+function capitalize(text) {
+  return `${text.charAt(0).toUpperCase()}${text.slice(1)}`
+}
 
 const data = fs.readFileSync('./corpus.txt', 'utf-8')
 const chain = new Markov(data.split('\n'), {stateSize: 3})
@@ -18,6 +21,6 @@ module.exports = function(questions) {
         return length > 20 && q.isSatisfied(score)
       }
     }).string
-    return `### ${q.q}\n\n${response}`
+    return `### ${q.q}\n\n${capitalize(response)}`
   }).join('\n\n\n')
 }
