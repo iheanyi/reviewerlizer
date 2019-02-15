@@ -460,7 +460,7 @@ Sets targets without any purpose so loses focus after a short period of time
 Fails to provide correct estimation of how much time resolution of problem will take
 Sets multiple goals at the same time and fails to achieve even one
 Finds it difficult to learn new technologies
-understands clearly that to complete the projects is a team effort. They is always willing to help others when needed.
+understands clearly that to complete the projects is a team effort. They are always willing to help others when needed.
 connects their staff members together well to create a team first environment.
 promotes a team-centered environment.
 is a proven team player.
@@ -499,7 +499,7 @@ promotes cooperation well to ensure staff work as a team to meet deadlines.
 encourages people to work together to achieve a common goal.
 puts getting the job done ahead of their own interests.
 works well with coworkers, staff, managers, and members of other teams.
-understands clearly that to complete the projects is a team effort. They is always willing to help others when needed.
+understands clearly that to complete the projects is a team effort. They are always willing to help others when needed.
 connects their staff members together well to create a team first environment.
 promotes a team-centered environment.
 is a proven team player.
@@ -557,8 +557,8 @@ is unwilling to share their work or team responsibilities with others.
 is unwilling to foster good relationships with other teams and is not open-minded.
 communication is poor meaning their team meetings are rarely effective.
 Since being promoted to supervisor, they have been “too busy” to assist their employees when they need an extra set of hands to help. This unwillingness to offer assistance promotes a selfish work environment.
-is cautious and prefers to avoid confrontation. They is unlikely to openly risk conflict this by helping someone.
-works until the job is complete. They is very result orientated.
+is cautious and prefers to avoid confrontation. They are unlikely to openly risk conflict this by helping someone.
+works until the job is complete. They are very result orientated.
 is self-motivated and strives to complete all their tasks on time.
 is a big-picture thinker. They continually seeks to expand the horizons of the company.
 has a thirst for skills and knowledge. They always challenges themself to perform tasks to the best possible standard.
@@ -630,7 +630,7 @@ adheres to company policy when scheduling time off.
 completes work according to promised deadlines.
 manages their schedule well. They fully completes all tasks assigned to them for the week.
 strictly ensures their staff maintain proper timekeeping. They manages their staff well to ensure they perform their duties on schedule.
-schedule shows no cause for concern. They is rarely absent and follows company policy.
+schedule shows no cause for concern. They are rarely absent and follows company policy.
 is reliable and has good attendance.
 has good attendance and is reliable.
 arrives at work punctually and ready to begin and returns from breaks on time.
@@ -654,7 +654,7 @@ frequently presents a superior attitude toward coworkers. Their demeanor is rude
 displays a negative outlook at times which may be damaging to the team.
 follows the appropriate schedule but they are often late returning from off-site activities which negatively impacts their coworkers.
 is very punctual herself but they fails to ensure that their staff are also. They need to manage this better.
-punctuality is very poor and unacceptable. They is very rarely on time.
+punctuality is very poor and unacceptable. They are very rarely on time.
 If their attendance fails to improve within 90 days, their employment will be terminated under the company’s attendance policy.
 is a capable and skilled worker; however they are let down by their abysmal punctuality which must be improved.
 routinely falls behind in their daily meeting schedule which then impacts the schedules of others. They should address this immediately to remove the negative impacts on others.
@@ -682,13 +682,13 @@ is continually late for work. They must improve their attendance record in order
 is continually late for work and should improve this area by focusing on arriving on time each day.
 often takes extended lunches and does not make up the added time in their work schedule.
 took several more personal days than permitted. They was frequently absent when needed.
-frequently provides excuses for their late arrival times. They is unable to account for delays such as heavy traffic in their travel time.
+frequently provides excuses for their late arrival times. They are unable to account for delays such as heavy traffic in their travel time.
 does not arrive on time in the morning and then leaves at their normally scheduled exit time. They need to improve their time keeping.
 is a detail minded person and their work is always completed with high quality.
 always maintains a high level of accuracy in their work.
 never neglects even the smallest detail of tasks assigned to him.
 makes defect free products.
-is very focused. They is conscious of every detail in their work.
+is very focused. They are conscious of every detail in their work.
 is highly reliable. Their performance displays exceptional quality and accuracy.
 accomplished all tasks they are assigned in a timely manner.
 maintains a good standard of work aligned with a high level of productivity.
@@ -775,7 +775,7 @@ work is consistently being passed back for rework.
 doesn’t understand the key requirements of their job.
 The quality of their products is unreliable.
 doesn’t spend enough time checking their work before handing it over.
-cannot be relied upon. They is unable to produce the quality of products that is expected.
+cannot be relied upon. They are unable to produce the quality of products that is expected.
 Products made by them contain many errors and rarely pass any inspection phase.
 doesn’t focus on details of their tasks. Their products contain many errors.
 often makes mistakes in their work.
@@ -844,7 +844,7 @@ is not afraid to say “I don’t know” when faced with a difficult question.
 is able to summarize and communicate key business decisions effectively.
 communication skills stand out from those of their peers.
 effectively persuades and convinces their peers, especially in times of high stakes.
-is an effective listener. They is always willing to hear and understand others’ fears or concerns.
+is an effective listener. They are always willing to hear and understand others’ fears or concerns.
 makes new employees feel welcome.
 is a calming influence when the team is under pressure.
 strives to create a positive atmosphere in the work place.
@@ -926,7 +926,7 @@ is able to listen as effectively as well as talk.
 asks insightful and probing questions.
 is able to empathize with others and is respectful of opposing viewpoints.
 demonstrates appreciation for others and thanks them for their assistance.
-is courteous and acknowledges the contributions of others. They is respectful of the feelings of others.
+is courteous and acknowledges the contributions of others. They are respectful of the feelings of others.
 respects other peoples’ time and priorities.
 treats others fairly and without prejudice or bias.
 is seen by their peers as someone whom they can depend on.
@@ -1199,10 +1199,10 @@ Is helpful and diect in dealing with customer concerns.
 displays an effective cadence when working with clients on projects. Their manner is effective without being not overbearing.
 artfully helps customers overcome objections.
 deals with difficult customers with grace.
-handles customer service situations well. They is rated well by their peers, managers, and customers.
+handles customer service situations well. They are rated well by their peers, managers, and customers.
 understands how to listen to customers. They can extract the details which make a big difference when dealing with our clients.
-deals with customer complaints with a calm demeanor. They is very good at handling difficult situations with customers.
-works with customers very well. They is very good at dealing with irate customers in a calm and rational manner.
+deals with customer complaints with a calm demeanor. They are very good at handling difficult situations with customers.
+works with customers very well. They are very good at dealing with irate customers in a calm and rational manner.
 takes great pride in their work.
 skillfully overcomes client objections.
 has consistently high marks on their customer satisfaction surveys.
@@ -1243,7 +1243,7 @@ cannot maintain relationships with their customers well.
 customers always give them low marks in the customer satisfaction surveys.
 does not understand how to to solve problems with customers and gives up easily.
 does not always listen to their customers well.
-has not understood completely why customer service training is important. They is late to class frequently and sometimes does not take part at all.
+has not understood completely why customer service training is important. They are late to class frequently and sometimes does not take part at all.
 consistently receives substandard comments from customers.
 appears uninterested in helping customers with their challenges.
 does not manage customer expectations, especially in tough situations.
@@ -1324,7 +1324,7 @@ We can believe in him.
 never fails to impress by performing well each day. We depend on him.
 always finishes the jobs faithfully, They performs at or above all our expectations.
 is loyal and trustworthy.
-is one of our hardest workers. They demonstrates that they cares about their job, their coworkers, and the company.
+is one of our hardest workers. They demonstrate that they cares about their job, their coworkers, and the company.
 consistently impresses us with their willingness to do whatever it takes to get the job done.
 is a very reliable employee.
 is dependable and turns in good performance each day. They never fails to impress.
@@ -1352,10 +1352,10 @@ shows no willingness to do what it takes to get the job done, especially in this
 reliability is in doubt. Their work results are often poor and must be checked frequently.
 tends to leave work for others to do; while most of their coworkers are willing to work late to finish the project.
 productivity is not as good as that of their coworkers.
-is very loyal but they cannot be depended on. They is an irresponsible person.
+is very loyal but they cannot be depended on. They are an irresponsible person.
 is usually reliable in their work, but there have been a few incidents where this was not the case.
 is very loyal guy, but cannot be depended on.
-We need people who are willing to do whatever it takes to get the job done. They is not one of those people.
+We need people who are willing to do whatever it takes to get the job done. They are not one of those people.
 does not demonstrate a concern for others perception of them or their job performance.
 results are not as consistent as those of their coworkers.
 is not reliable for their effort and does not demonstrate a willingness to do whatever it takes to get the job accomplished.
@@ -1369,7 +1369,7 @@ guarantees that deadlines will be met, but consistently misses them.
 is reliable when it suits him, they constantly needs to be reminded to do tasks they does not enjoy.
 is very punctual and values the time of their colleagues and business partners. They has never been late to business meetings.
 is a very honest person. They never abuses any company benefits for personal purposes.
-is a highly principled. They is good manager who treats all employees equally, regardless of gender, age or any other factor.
+is a highly principled. They are good manager who treats all employees equally, regardless of gender, age or any other factor.
 has the ability to resolve disputes with clients and partners peacefully.
 discourages gossip or other negative discourse at the workplace. They forms a good working climate.
 is well-mannered and never criticizes their colleagues when they do something incorrectly. They helps to remedy the situation instead.
@@ -1438,13 +1438,13 @@ never gets stressed in unexpected situations. They never complains about innovat
 is ready to make a new and carefully considered decision if the situation has changed and the previous actions have become inappropriate.
 is ready to work extra hours if urgent and essential issues must be solved by the end of the day.
 is always ready for business trips when necessary for their job and for improving relationships with clients.
-is strong and confident but at the same time open-minded. They is always ready to consider proposals from colleagues.
+is strong and confident but at the same time open-minded. They are always ready to consider proposals from colleagues.
 is always stays aware of market changes to be able to react immediately. This awareness helps the company develop and flourish.
 always takes opposite and conflicting views into account to develop proper compromise solutions.
 tries to find an individual approach to each person, colleague and customer. They optimizes their work and get benefits for the company.
 constantly identifies more efficient ways of doing business.
 readily accepts constructive criticism.
-is a well-versed team player. They is capable of handling a variety of assignments.
+is a well-versed team player. They are capable of handling a variety of assignments.
 is calm under pressure.
 is a calming influence, especially within their peer group.
 shows initiative, and is flexible when approaching new tasks.
@@ -1497,7 +1497,7 @@ struggles to communicate when deadlines will be missed.
 leaves peers struggling to understand the status of a project.
 refuses to delegate to others. They attempts to do all the work by himself.
 is unwilling to accept responsibility for missed goals.
-is easily distracted. They is uninterested in focusing on achieving performance goals.
+is easily distracted. They are uninterested in focusing on achieving performance goals.
 does not assign their staff effectively. Their ineffective assignments mean they cannot reach assigned goals.
 does not achieve goals or objectives because they does not focus on their performance.
 will shift responsibility onto others for unaccomplished deadlines or goals.
@@ -1524,7 +1524,7 @@ needs set goals that more accurately match their talent level.
 doesn’t wait for instructions. They shows the initiative to find new tasks himself.
 requires minimal supervision. They shows initiative on their own.
 s a goal-oriented person. They sets their own priorities to accomplish their job.
-is a very creative person. They is skilled in finding the best ways to get a job done.
+is a very creative person. They are skilled in finding the best ways to get a job done.
 has a high sense of responsibility to their job. They tries to perfect their performance without prompting.
 never feels satisfied with their performance. They always seeks new ways to improve himself.
 is supportive of new ideas, goals and working methods no matter where they come from.
@@ -1553,10 +1553,10 @@ must be closely supervised if they are to their work.
 is lethargic and lacks the desire or volition to learn new skills or develop their qualifications.
 It seems too difficult for them to do their job on their own.
 won’t improve if they continues to neglect the opportunities in front of him.
-does not seem to be adaptable. They is unable to perform consistently under pressure or thrive on constant change or challenge.
+does not seem to be adaptable. They are unable to perform consistently under pressure or thrive on constant change or challenge.
 typically thinks inside the box and is afraid to risk doing anything in a new way.
-is indecisive. They is unable to make quick decisions, take action or commit themself to a project’s completion.
-does not seem to be an ideas person. They is not ready to generate or recognize new solutions when performing a task.
+is indecisive. They are unable to make quick decisions, take action or commit themself to a project’s completion.
+does not seem to be an ideas person. They are not ready to generate or recognize new solutions when performing a task.
 has poor abilities to establish priorities and courses of action for himself. They lacks the skills in planning and following up to achieve results.
 does not use their experience and knowledge to its full potential.
 needs close supervision when they are performing their assignments.
@@ -1574,7 +1574,7 @@ fails to think out of the box and prefers to do things the way they have always 
 always has issues when they have to deal with tasks alone.
 often neglects unexpected opportunities and loses the chance to improve himself.
 often works in an unprofessional manner. They never risks doing anything innovatively.
-is very studious. They is willing to study the knowledge needed for their job. They shares everything they knows with other team members.
+is very studious. They are willing to study the knowledge needed for their job. They shares everything they knows with other team members.
 always keeps themself updated about new information and knowledge in relation to their field of expertise.
 shows a potentially excellent level knowledge about the job requirements and related skills.
 is very knowledgeable about the products and special features of the company’s products.
@@ -1694,7 +1694,7 @@ understands how to take daily tasks and motivate employees to meet a long term g
 leads the team in the difficult environment of customer service to success, meeting all objectives.
 understands people and the different ways to motivate them to get the job done.
 is an excellent coach and regularly receives maximum performance feedback scores from their direct reports.
-understands that good leaders improve themselves through study, training, and experience. They is willing to commit the hours necessary for these pursuits.
+understands that good leaders improve themselves through study, training, and experience. They are willing to commit the hours necessary for these pursuits.
 is able to bring out the best out of those in the team.
 has established an effective system for communication and information retrieval.
 provides constant coaching and guidance to employees.
@@ -1779,7 +1779,7 @@ is poor at managing a high performance team. They does not know how to perform t
 was a good employee but not good enough to become an excellent manager.
 displays unfairness with their team and favors certain individuals.
 is far from an expert manager of staff. Their employees’ complaints about their impossible requirements are reasonable. They should learn to accept a reasonable work-personal life balance.
-is a good supervisor but they are not expert in this field. They is unable to manage their team well and their team’s performance is not good.
+is a good supervisor but they are not expert in this field. They are unable to manage their team well and their team’s performance is not good.
 tries to be both a manager and friend. They finds it hard to distinguish between their personal relationships and work relationships.
 does not know how to set targets and lead their team to reach them. They feels confused when setting goals and leading their team forward.
 fails to resolve conflict among subordinates.
@@ -1807,7 +1807,7 @@ has found it hard to becoming a manager after being a staff member. They has dif
 fails to manage their staff to gain effective performance.
 is good at supervising, but they cannot manage their staff to efficient performance.
 does not anticipate complications when managing a high performance team. They does not know how to perform well.
-was an expert staff member but nothing has shown that they is proficient enough to become a manager.
+was an expert staff member but nothing has shown that they are proficient enough to become a manager.
 is not effective at leading their team to high performance.
 has not yet found a way to deal with situations in a group. Their team produces poor results for the company..
 is a great employee. However, they does not perform well as a manager.
@@ -1843,7 +1843,7 @@ manages their relationships with their coworkers, managers, and employees in a p
 works well with others.
 is the consummate team player.
 contributes to the success of the team on a regular basis.
-ability to work well with others has always been impressive. This year, they have really shined in this area. They is one of those team members you would love to have on your team.
+ability to work well with others has always been impressive. This year, they have really shined in this area. They are one of those team members you would love to have on your team.
 is always one of the first to volunteer to help to get the job done whenever a large project comes in.
 isn’t only concerned about themself and continually contributes to the success of those around him
 always helps out to achieve the goals of the group.
@@ -1852,7 +1852,7 @@ ability to work with and understand the dynamics of the many teams in the organi
 isn’t concerned about who gets the credit, just that the task gets accomplished.
 has a great willingness to help their fellow teammates.
 found a creative workaround that improved processes for the team. Their innovative steps resulted in a 25% increase in productivity for the team as a whole.
-is a good team member. They is very cooperative and helpful in times of need.
+is a good team member. They are very cooperative and helpful in times of need.
 ability to coordinate the performances of each team member together is vital to team’s success,
 doesn’t care who receives the credit. They only cares about how to get the job done excellently.
 satisfies everybody because they often contributes positively to the success of others instead of himself.
@@ -1877,7 +1877,7 @@ does not care for only for himself.
 always devotes themself wholeheartedly to the success of the team.
 
 doesn’t have a good relationship with their team members. They sometimes refuses to accept their opinion.
-is a loner. They is not suitable for teamwork tasks.
+is a loner. They are not suitable for teamwork tasks.
 doesn’t want to share their knowledge in relation to the job with others.
 does not actively cooperate with others.
 holds on to too much and does not delegate to their team effectively.
@@ -1927,7 +1927,7 @@ is able to grasp complex technical concepts. They explains them in easy to under
 We rely on them when we need to implement new technology.
 is good at understanding the technical nature of their job.
 is excellent at absorbing the complexities of their job.
-deals with very complex topics and discussions. They is always able to bring a level of understanding the rest of us can follow.
+deals with very complex topics and discussions. They are always able to bring a level of understanding the rest of us can follow.
 is one of the first people we turn to whenever we have a very technical problem. Their ability to grasp technology is an asset to our team.
 is an accomplished technician who understands our systems and processes.
 is one of the first to pick up and understand new technology as we implement it.
@@ -1993,7 +1993,7 @@ usually needs too much time than it takes to complete their duties.
 takes too much time to perform their tasks. We advise them to make concrete plan for every week.
 is willing to help their staff find suitable training sessions.
 We are impressed with their willingness to give instructions on the latest technologies and facilities.
-does not mind taking part in on the job training. They is a valued team member with their enthusiasm.
+does not mind taking part in on the job training. They are a valued team member with their enthusiasm.
 encourages all the team members to join in the necessary training sessions.
 is responsible and makes sure that all members take part in the requisite training sessions.
 is able to learn concepts quickly and adopt them into their performance.
@@ -2019,7 +2019,7 @@ always has a positive attitude. They frequently has a smile on their face and yo
 is cheerful guy and always people feel delighted to be around him. We are fortunate to them on our team.
 has an even demeanor through good times and bad. Their constant cheer helps others keep their “enthusiasm”, both positive and negative, in check.
 has a soothing personality which reflects a very calm personality. Their attitude is one which should be emulated.
-brings a level of enthusiasm to their job that few can. They is always one member the team we go to when we need a lift.
+brings a level of enthusiasm to their job that few can. They are always one member the team we go to when we need a lift.
 is adept at maneuvering around any obstacles that are thrown at him. They finishes their work on time and with accuracy.
 always smiles when they goes to work. They does not mind showing off their positive attitude to the team.
 has never complained about their job or their colleagues.
@@ -2033,7 +2033,7 @@ Bill is such as cheerful person that everyone feels good with them around.
 usually focuses their attention on the positives when dealing with problems.
 has a positive attitude and they are willing to share their thoughts about relevant matters.
 congratulates staff on jobs well done. They maintains a good and comfortable environment for their team.
-positive attitude in their management role is their most important and effective skill. They is cooperative with others and tries to connect everybody together. They maintains an incredible posture and focuses on the positives when solving problems.
+positive attitude in their management role is their most important and effective skill. They are cooperative with others and tries to connect everybody together. They maintains an incredible posture and focuses on the positives when solving problems.
 is always enthusiastic and helps motivate team other members.
 is very level-headed and handles stressful situations with ease.
 is quick to congratulate coworkers and builds trust within their team.
@@ -2048,9 +2048,9 @@ talents are very valuable to the company; nevertheless, their attitude to work i
 demeanor can be unapproachable and this negatively impacts the morale of their team.
 needs to control their temper and attitude, they need to learn not to react too strongly towards negative situations.
 can be the cause of conflicts between their coworkers.
-has an overly sensitive and pessimistic personality. They is easily upset by problems or difficult situations. They should try to think more positively, focus on the good and avoid being overly concerned with their perceived negatives.
-often has troubles with their coworkers when they work together. They is easily angered and argumentative with their colleagues.
-argumentative attitude in conversations their colleagues can make them angry. They is clearly aware of this but they have made no attempt to change their demeanor when talking about non-work related topics. It is highly recommended that they improves their attitude.
+has an overly sensitive and pessimistic personality. They are easily upset by problems or difficult situations. They should try to think more positively, focus on the good and avoid being overly concerned with their perceived negatives.
+often has troubles with their coworkers when they work together. They are easily angered and argumentative with their colleagues.
+argumentative attitude in conversations their colleagues can make them angry. They are clearly aware of this but they have made no attempt to change their demeanor when talking about non-work related topics. It is highly recommended that they improves their attitude.
 is somewhat pessimistic and their moods affect other employees.
 is careless and unmotivated, which ultimately slows the team down.
 does not handle stressful situations well.
