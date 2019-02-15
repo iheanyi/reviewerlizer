@@ -1,6 +1,6 @@
 workflow "Generate Review" {
-  on = "issue"
   resolves = ["deliver thoughtful review"]
+  on = "issues"
 }
 
 action "only opened issues" {
