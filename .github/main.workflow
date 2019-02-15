@@ -11,4 +11,5 @@ action "only opened issues" {
 action "deliver thoughtful review" {
   uses = "./"
   needs = ["only opened issues"]
+  secrets = ["GITHUB_TOKEN"]
 }
