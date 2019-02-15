@@ -18,6 +18,6 @@ module.exports = function(questions) {
         return length > 20 && q.isSatisfied(score)
       }
     }).string
-    return `## ${q.q}\n\n${response}`
+    return `### ${q.q}\n\n${response}`
   }).join('\n\n\n')
 }
