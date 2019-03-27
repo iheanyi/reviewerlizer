@@ -1,6 +1,6 @@
 workflow "Generate Review" {
   on = "issues"
-  resolves = ["new-action"]
+  resolves = ["deliver thoughtful review"]
 }
 
 action "only (re)opened issues" {
@@ -12,11 +12,6 @@ action "deliver thoughtful review" {
   uses = "./"
   needs = ["only (re)opened issues"]
   secrets = ["GITHUB_TOKEN"]
-}
-
-action "new-action" {
-  uses = "owner/repo/path@ref"
-  needs = ["deliver thoughtful review"]
 }
 
 workflow "say hi" {
