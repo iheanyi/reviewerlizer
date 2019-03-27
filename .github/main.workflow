@@ -1,4 +1,4 @@
-workflow "Generate Review" {
+workflow "Generate Reviews" {
   resolves = ["deliver thoughtful review"]
   on = "issues"
 }
