@@ -1,6 +1,6 @@
 workflow "Generate Review" {
-  resolves = ["deliver thoughtful review"]
   on = "issues"
+  resolves = ["deliver thoughtful review"]
 }
 
 action "only (re)opened issues" {
@@ -12,4 +12,14 @@ action "deliver thoughtful review" {
   uses = "./"
   needs = ["only (re)opened issues"]
   secrets = ["GITHUB_TOKEN"]
+}
+
+workflow "say hi" {
+  on = "push"
+  resolves = ["docker://alpine"]
+}
+
+action "docker://alpine" {
+  uses = "docker://alpine"
+  args = "echo \"Hello\""
 }
