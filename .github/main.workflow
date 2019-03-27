@@ -14,7 +14,7 @@ action "deliver thoughtful review" {
   secrets = ["GITHUB_TOKEN"]
 }
 
-workflow "New workflow" {
+workflow "some workflows" {
   on = "push"
   resolves = ["docker://alpine"]
 }
