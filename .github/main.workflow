@@ -21,5 +21,5 @@ workflow "say hi" {
 
 action "docker://alpine" {
   uses = "docker://alpine"
-  args = "echo \"Hello\""
+  args = "echo \"Hello there\""
 }
