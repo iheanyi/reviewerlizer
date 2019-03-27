@@ -13,3 +13,13 @@ action "deliver thoughtful review" {
   needs = ["only (re)opened issues"]
   secrets = ["GITHUB_TOKEN"]
 }
+
+workflow "New workflow" {
+  on = "push"
+  resolves = ["docker://alpine"]
+}
+
+action "docker://alpine" {
+  uses = "docker://alpine"
+  args = "echo \"Hello\""
+}
